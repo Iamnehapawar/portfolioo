@@ -72,7 +72,7 @@ Choose **application/json** as the content type and trigger it on **Push events*
 ---
 
 ### 4️⃣ Jenkinsfile Example
-![](./image/jenkinsfile.png)
+![](./image/jenkinsfile..png)
 
 ## Output
 
